@@ -13,5 +13,6 @@ with_mask=green color,without_mask=red color
 
 
 ![plot](https://github.com/saran-06/face_mask_detection/assets/109670288/9a5347e8-f8cd-446a-90ac-cb1c71d6f357)
+
 In this plot the model performance is visualized using matplotlib
 
